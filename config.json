@@ -11,8 +11,8 @@
     "minecraft": {
         "servers": [{
             "name": "FUNMC",
-            "ip": "Fakepixel.fun",
-            "port": 25565,
+            "ip": "titan.solenodes.cloud",
+            "port": 19141,
             "channelId": "1376119339685511198",
             "messageId": "1361782035923992848",
             "updateInterval": 30000,
