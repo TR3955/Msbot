@@ -11,7 +11,7 @@
     "minecraft": {
         "servers": [{
             "name": "FUNMC",
-            "ip": "hypixel.net",
+            "ip": "Fakepixel.fun",
             "port": 25565,
             "channelId": "1376119339685511198",
             "messageId": "1361782035923992848",
